@@ -1,0 +1,27 @@
+{
+  "plugins": {
+    "@textlint/markdown": {
+      "extensions": [".md", ".mdx"]
+    }
+  },
+  "rules": {
+    "preset-ja-technical-writing": {
+      "sentence-length": {
+        "max": 150
+      },
+      "ja-no-mixed-period": {
+        "allowPeriodMarks": [":", "——"],
+        "allowEmojiAtEnd": true
+      },
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false,
+      "max-comma": {
+        "max": 5
+      },
+      "max-kanji-continuous-len": {
+        "max": 6,
+        "allow": ["本質的安全設計方策"]
+      }
+    }
+  }
+}
