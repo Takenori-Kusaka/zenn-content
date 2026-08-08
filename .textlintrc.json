@@ -1,7 +1,8 @@
 {
+  "//": "Zenn 向けの校正設定。process-compass(規程文書)の設定とは別物として設計している。詳細は docs/textlint.md",
   "plugins": {
     "@textlint/markdown": {
-      "extensions": [".md", ".mdx"]
+      "extensions": [".md"]
     }
   },
   "rules": {
@@ -10,17 +11,30 @@
         "max": 150
       },
       "ja-no-mixed-period": {
-        "allowPeriodMarks": [":", "——"],
+        "allowPeriodMarks": [":", "——", "—"],
         "allowEmojiAtEnd": true
+      },
+      "no-mix-dearu-desumasu": {
+        "preferInHeader": "",
+        "preferInBody": "ですます",
+        "preferInList": "",
+        "strict": false
       },
       "no-exclamation-question-mark": false,
       "ja-no-weak-phrase": false,
       "max-comma": {
         "max": 5
       },
+      "max-ten": {
+        "max": 3
+      },
       "max-kanji-continuous-len": {
-        "max": 6,
-        "allow": ["本質的安全設計方策"]
+        "max": 6
+      },
+      "no-doubled-joshi": {
+        "min_interval": 1,
+        "strict": false,
+        "allow": []
       }
     }
   }

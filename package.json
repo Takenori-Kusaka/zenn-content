@@ -7,7 +7,7 @@
     "preview": "zenn preview",
     "new:article": "zenn new:article",
     "new:book": "zenn new:book",
-    "lint": "textlint \"books/**/*.md\" \"articles/**/*.md\" README.md",
+    "lint": "textlint \"books/**/*.md\" \"articles/**/*.md\" \"docs/**/*.md\" README.md",
     "check": "npm run lint && npm run check:books",
     "check:books": "node scripts/check-books.mjs"
   },

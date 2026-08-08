@@ -1,0 +1,27 @@
+# 依存関係の更新
+#
+# 見送りの規則は process-compass と同じです。
+# https://github.com/Takenori-Kusaka/process-compass/blob/main/.github/dependabot.yml
+#
+# 取り込めない更新は、PR を開いたままにせず、理由と見直し期限を添えて
+# 下の ignore へ登録します。開いたままの PR は、見送ったのか忘れたのかを
+# 区別できません。
+#
+# 現在の見送り: なし
+
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      all-npm:
+        patterns: ["*"]
+    ignore: []
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    ignore: []
