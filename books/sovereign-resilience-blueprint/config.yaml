@@ -1,13 +1,68 @@
 title: "自律分散型レジリエンス国家の設計図 ―― AI有事・気候激甚化時代におけるシステム統合アプローチと技術者の役割"
-summary: "境界防御（ゲート防衛）が崩壊し、少子化と激甚災害で国家インフラが後退する時代。我々エンジニアはどう国家を保守し、生存空間を守るべきか。オストロムのコモンズ論、ソルニットの災害ユートピア、そして経産省やWOTAの公式分散化戦略を架橋し、一エンジニアが『動くプロトタイプ』で国家の真の防衛に寄与するための実践的マニフェストです。"
+summary: "境界防御が崩壊し、少子化と災害で国家インフラが局所撤退する時代。インフラの全面切断時にも、ローカルLANでしなやかに縮退運転できる自律生存システムの構築方法を解説。オストロムのコモンズ論、ソルニットの災害ユートピア、そしてWOTAやPowerXの先駆的事例を架橋し、一技術者が真の地域レジリエンスに貢献するための実践的なシステム設計図を提示します。"
 topics: ["ai", "security", "geopolitics", "resilience", "career"]
-published: true
+published: false
 price: 0
 chapters:
   - introduction
-  - 01_historical-coordinates
-  - 02_three-catastrophes
-  - 03_state-struggle-friction
-  - 04_escaping-dependency
-  - 05_national-defense-guild
-  - 06_bibliography
+  - 01_sovereign-state-os
+  - 02_ancient-water-infrastructure
+  - 03_roman-infrastructure-collapse
+  - 04_industrial-revolution-urbanization
+  - 05_cholera-outbreak-sewage
+  - 06_electrification-dawn
+  - 07_politics-of-metering
+  - 08_american-frontier-self-reliance
+  - 09_ottoman-polycentric-governance
+  - 10_centralized-infrastructure-debt
+  - 11_writing-administrative-legibility
+  - 12_printing-press-religious-reformation
+  - 13_modern-education-standardization
+  - 14_computing-logical-operations
+  - 15_platform-capitalism-centralization
+  - 16_generative-ai-cognitive-bifurcation
+  - 17_surveillance-capitalism-algocracy
+  - 18_sinic-theory-framework
+  - 19_optimization-society-limits
+  - 20_autonomous-society-frictions
+  - 21_boundary-defense-death
+  - 22_ai-asymmetric-warfare-math
+  - 23_millisecond-warfare-ooda
+  - 24_russo-japanese-asymmetry
+  - 25_physical-spof-japan
+  - 26_power-grid-cascade-collapse
+  - 27_climate-change-physical-catastrophe
+  - 28_nankai-trough-vulnerability
+  - 29_cognitive-saturation-ai-noise
+  - 30_epistemic-crisis-consensus-collapse
+  - 31_society-50-twin-optimization
+  - 32_digital-agency-administrative-centralization
+  - 33_meti-semiconductor-rapidus
+  - 34_moonshot-avatar-limits
+  - 35_democratic-latency-math
+  - 36_openai-ai-futures-governance
+  - 37_algocracy-automated-administration
+  - 38_infrastructure-disinvestment-paradox
+  - 39_fortressed-cities-vulnerable-wilderness
+  - 40_cloud-lockout-wan-cutout
+  - 41_dependency-psychoanalysis
+  - 42_taoist-wu-wei-non-action
+  - 43_governing-the-commons-rediscovery
+  - 44_ostrom-principles-1-4-engineering
+  - 45_ostrom-principles-5-8-engineering
+  - 46_solnit-disaster-utopia-mutual-aid
+  - 47_standalone-prepping-vulnerability
+  - 48_taleb-antifragility-risk-dispersion
+  - 49_ostrom-principle-8-nested-commons
+  - 50_intentional-inconvenience-practice
+  - 51_decentralized-energy-powerx-mega-power
+  - 52_vpp-peer-to-peer-load-sharing
+  - 53_decentralized-water-wota-closed-loop
+  - 54_water-supply-act-regulation-hack
+  - 55_wota-jwad-mutual-aid-platform
+  - 56_resilient-data-nixos-immutable-os
+  - 57_sqlite-local-first-ssi-cryptography
+  - 58_local-rag-offline-slm-decision-support
+  - 59_p2p-mesh-lora-offline-communication
+  - 60_systems-engineer-manifesto
+  - 61_bibliography
