@@ -42,6 +42,22 @@ title: "参考文献およびLISTEN音声アーカイブ"
     *   [LoRa Alliance公式仕様書](https://lora-alliance.org/)
 *   **[16] ニコラ・テスラ (1904)**: 『世界システム（World System）計画書』.
     *   [Nikola Tesla Research: World System 記録アーカイブ](https://teslaresearch.jimdofree.com/)
+*   **[39] デニス・L・メドウズら (1972)**: 『成長の限界：ローマ・クラブ人類の危機レポート』. 
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=TheLimitsToGrowth) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4484051044)
+*   **[40] ニコライ・D・コンドラチェフ (1925)**: 『主要な経済循環（コンドラチェフ長期波動理論）』.
+    *   [書誌情報（CFI Library）](https://corporatefinanceinstitute.com/resources/economics/kondratieff-wave/)
+*   **[41] アルビン・トフラー (1980)**: 『第三の波：脱産業社会・脱集権化への移行』.
+    *   [書誌情報（Internet Archive）](https://archive.org/details/TheLimitsToGrowth) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/412201259X)
+*   **[42] クラウス・シュワブ (2016)**: 『第四次産業革命：物理、デジタル、生物学的世界の高度な融合』.
+    *   [WEF公式ブックアーカイブ](https://www.weforum.org/about/the-fourth-industrial-revolution) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/415209633X)
+*   **[43] レイ・カーツワイル (2005)**: 『収穫加速の法則とポスト・ヒューマン誕生（シンギュラリティ）』.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=TheSingularityIsNear) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4797334182)
+*   **[44] 国際連合 (2015)**: 『持続可能な開発のための2030アジェンダ（国連SDGs決議）』.
+    *   [国連公式決議書：SDGsアジェンダ](https://sdgs.un.org/goals)
+*   **[45] 気候変動に関する政府間パネル (IPCC) (2021)**: 『共有社会経済経路（SSPシナリオ）第6次評価報告書』.
+    *   [IPCC AR6 第1作業部会報告書](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-4/)
+*   **[46] Gartner Group (1995)**: *Jackie Fenn: Methodology of Gartner Hype Cycle for Emerging Technologies*.
+    *   [Gartner公式ナレッジベース](https://www.gartner.com/en/documents/1414917)
 *   **[17] James C. Scott (1998)**: *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
     *   [書誌情報（Google Books）](https://books.google.com/books?id=bYg6QgAACAAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/462209536X)
 *   **[18] Nick Srnicek (2016)**: *Platform Capitalism*. Polity Press.
