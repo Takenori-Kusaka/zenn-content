@@ -40,7 +40,7 @@ title: "第14章：コンピュータの誕生と論理演算の外在化 ――
 
 有事の文脈では、フィジカルAIは非対称なハイブリッド戦争やサイバー防御の主戦場となり得ます。安価なエッジAI搭載ドローンは、群れをなして攻撃する可能性があります。自動物理アクチュエーターが重要インフラを標的とすることも指摘されています。さらに、生成AIによる偽情報が認知空間を飽和させます。これにより、社会の分断や機能麻痺を引き起こす「社会認知戦」が現実の脅威となっています。
 
- [[20]](61_bibliography#20)[[21]](61_bibliography#21)[[36]](61_bibliography#36) 
+  [ [ 20 ] ](https://archive.org/details/firstdraftofrepo00vonf)  [ [ 21 ] ](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf)  [ [ 36 ] ](https://listen.style/p/cotenradio)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

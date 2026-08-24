@@ -117,4 +117,4 @@ Home Assistantは、この多層ネスト型VPPの中核を担う「自律生存
 - **自身の技術実装フィールド**：
   - `home-assistant/`（有事の際、中央システムからプラグアウトして自律防衛・生存するためのエッジスマートホーム実証機）
 
- [[10]](61_bibliography#10) 
+  [ [ 10 ] ](https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/vpp/)  

@@ -37,7 +37,7 @@ title: "第6章：社会の電気化の夜明け ―― 直流（Edison）対交
 
 ---
 
- [[38]](61_bibliography#38) 
+  [ [ 38 ] ](https://listen.style/p/cotenradio)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

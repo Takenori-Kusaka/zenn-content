@@ -98,4 +98,4 @@ title: "第35章：民主主義レイテンシ（Democratic Latency）の数理 
 
 ---
 
- [[1]](61_bibliography#1) 
+  [ [ 1 ] ](https://books.google.com/books?id=4Hg6QgAACAAJ)  

@@ -47,7 +47,7 @@ title: "第7章：サミュエル・インサルと集中管理型ユーティ�
 
 ---
 
- [[24]](61_bibliography#24)[[38]](61_bibliography#38) 
+  [ [ 24 ] ](https://archive.org/details/centralstatione00insugoog)  [ [ 38 ] ](https://listen.style/p/cotenradio)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

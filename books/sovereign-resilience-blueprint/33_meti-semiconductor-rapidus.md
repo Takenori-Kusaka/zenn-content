@@ -75,7 +75,7 @@ Rapidus計画は、単に経済的な競争力を回復するための産業政�
 Rapidus計画は、これらの複雑な課題に対する日本の戦略的な回答です。
 これは、自律分散型レジリエンス国家の設計図を描く上で、その基盤を形成する重要な要素です。
 
- [[9]](61_bibliography#9) 
+  [ [ 9 ] ](https://www.meti.go.jp/policy/mono_info_service/joho/semiconductor/)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

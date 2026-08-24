@@ -103,7 +103,7 @@ title: "第50章：能動的不便（Intentional Inconvenience）の実践 ―�
 
 能動的不便は、自律社会から自然社会へと至る、重要な哲学の実装となります。
 
- [[29]](61_bibliography#29) 
+  [ [ 29 ] ](https://listen.style/p/cotenradio)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

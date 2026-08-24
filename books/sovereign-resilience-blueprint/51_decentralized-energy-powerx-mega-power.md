@@ -107,4 +107,4 @@ Mega Powerによる実機検証は、単なる技術の導入ではなく、来�
 - **自身の技術実装フィールド**：
   - `home-assistant/`（有事の際、中央システムからプラグアウトして自律防衛・生存するためのエッジスマートホーム実証機）
 
- [[12]](61_bibliography#12) 
+  [ [ 12 ] ](https://power-x.co/ja/products/megapower/)  

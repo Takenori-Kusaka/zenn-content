@@ -51,7 +51,7 @@ title: "第1章：主権国家OSの誕生 ―― 1648年ウェストファリア
 その瞬間、個々のノードは生存維持能力を完全に喪失します。
 これが、現代社会が抱える「インフラ全面依存」の論理的な起源です。
 
- [[3]](61_bibliography#3)[[28]](61_bibliography#28) 
+  [ [ 3 ] ](https://books.google.com/books?id=8bUvDwAAQBAJ)  [ [ 28 ] ](https://listen.style/p/cotenradio)  
 
 ### 現代社会構造への射程と本質（本章のまとめ）
 

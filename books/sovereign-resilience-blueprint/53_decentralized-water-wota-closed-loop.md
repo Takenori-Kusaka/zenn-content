@@ -134,4 +134,4 @@ flowchart TD
 *   **自身の技術実装フィールド**：
     *   `home-assistant/`（有事の際、中央システムからプラグアウトして自律防衛・生存するためのエッジスマートホーム実証機）
 
- [[11]](61_bibliography#11) 
+  [ [ 11 ] ](https://wota.co.jp/wota-box/)  
