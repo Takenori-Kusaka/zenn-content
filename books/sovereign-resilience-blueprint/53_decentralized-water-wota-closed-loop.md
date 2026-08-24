@@ -133,3 +133,5 @@ flowchart TD
     *   `predictions/research/post-catastrophe-blueprint.md` （ソブリン・エンジニア設計図）
 *   **自身の技術実装フィールド**：
     *   `home-assistant/`（有事の際、中央システムからプラグアウトして自律防衛・生存するためのエッジスマートホーム実証機）
+
+ [[11]](61_bibliography#11) 

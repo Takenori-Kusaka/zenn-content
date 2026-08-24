@@ -116,3 +116,5 @@ Home Assistantは、この多層ネスト型VPPの中核を担う「自律生存
   - `predictions/research/post-catastrophe-blueprint.md` （ソブリン・エンジニア設計図）
 - **自身の技術実装フィールド**：
   - `home-assistant/`（有事の際、中央システムからプラグアウトして自律防衛・生存するためのエッジスマートホーム実証機）
+
+ [[10]](61_bibliography#10) 
