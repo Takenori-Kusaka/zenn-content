@@ -1,73 +1,90 @@
 ---
 title: "参考文献およびLISTEN音声アーカイブ"
 ---
+<!-- textlint-disable -->
 
-本章では、本書の記述を支える主要な資料を系統的に集約しています。
-これらの資料は、歴史的事実、システム工学的な知見、そして社会科学における論証のエビデンスとなります。
-主要な資料には、文献、学術論文、および一次・二次資料が含まれます。
-二次資料には、音声トランスクリプトも含まれています。
+本章は、本書の記述における歴史的事実、システム工学的知見、および社会科学的論証のエビデンスとなる主要な文献、学術論文、および一次・二次資料（音声トランスクリプトを含む）を系統的に集約したものです。
 
 ---
 
 ### 📚 Ⅰ. 主要学術書籍・論文（社会システム・インフラ・反脆弱性）
 
-**[1] Elinor Ostrom (1990)**: *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press. この書籍の邦訳は、エリノア・オストロム『コモンズのガバナンス：集団での意思決定制度の進化』です。
-*   **[2] Rebecca Solnit (2009)**: *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Viking Penguin. （邦訳：レベッカ・ソルニット『災害ユートピア：なぜその時、奇妙な共同体が立ち上がるのか』）
-*   **[3] Nassim Nicholas Taleb (2012)**: *Antifragile: Things That Gain from Disorder*. Random House. （邦訳：ナシーム・ニコラス・タレブ『反脆弱性：不確実な世界を生き抜く設計思想』）
-*   **[4] Sextus Julius Frontinus (97 AD)**: *De aquaeductu urbis Romae*. （邦訳・英訳：フロント・イヌス『ローマの水道について』）
-*   **[5] Shoshana Zuboff (2019)**: *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*. PublicAffairs. （邦訳：ショショナ・ズボフ『監視資本主義：人類の未来を賭けた闘い』）
+<!-- textlint-disable ja-technical-writing/max-kanji-continuous-len -->
+
+*   **[1] Elinor Ostrom (1990)**: *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge University Press. 
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=4Hg6QgAACAAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4794812164)
+*   **[2] Rebecca Solnit (2009)**: *A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster*. Viking Penguin.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=bYg6QgAACAAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/416391458X)
+*   **[3] Nassim Nicholas Taleb (2012)**: *Antifragile: Things That Gain from Disorder*. Random House.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=8bUvDwAAQBAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/479739097X)
+*   **[4] Sextus Julius Frontinus (97 AD)**: *De aquaeductu urbis Romae*.
+    *   [書誌情報・英訳（Google Books）](https://books.google.com/books?id=TzVdAAAAMAAJ)
+*   **[5] Shoshana Zuboff (2019)**: *The Age of Surveillance Capitalism*. PublicAffairs.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=8bUvDwAAQBAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/440833912X)
 *   **[6] 立石一真 (1970)**: 『SINIC理論：未来予測の思想と方法』. オムロン株式会社.
-*   **[7] 内閣府 (2020)**: 『Society 5.0共同計画：サイバー・フィジカル空間の高度統合に向けたロードマップ』.
+    *   [OMRON公式：未来予測理論 SINIC理論](https://www.omron.com/jp/ja/about/corporate/vision/sinic/theory/)
+*   **[7] 内閣府 (2020)**: 『Society 5.0：サイバー・フィジカル空間の高度統合に向けたロードマップ』.
+    *   [内閣府公式：Society 5.0](https://www8.cao.go.jp/cstp/society5_0/)
 *   **[8] デジタル庁 (2024)**: 『マイナンバーカード一元化およびデジタル行政OS重点計画』.
-経済産業省は、2022年に『Rapidus（ラピダス）最先端の半導体の製造基盤の国策整備計画』を公表しました。
+    *   [デジタル庁公式：マイナンバー制度ポリシー](https://www.digital.go.jp/policies/mynumber/)
+*   **[9] 経済産業省 (2022)**: 『Rapidus（ラピダス）最先端半導体製造基盤の国策整備計画』.
+    *   [経済産業省公式：半導体・デジタル産業戦略](https://www.meti.go.jp/policy/mono_info_service/joho/semiconductor/)
 *   **[10] 経済産業省・資源エネルギー庁 (2023)**: 『仮想発電所（VPP）および産業用蓄電システム導入促進要領』.
-WOTA株式会社は、2021年に **[11]** として、『小規模分散型の水循環システム（WOTA BOX）の技術実証および自律フィルター制御白書』を公開しました。
-[12] 株式会社パワーエックスは、2023年に「Mega Power（メガパワー）産業用蓄電池を活用した、系統における自律分散型の蓄電システム構成仕様」を発表しました。
+    *   [資源エネルギー庁公式：VPP・DR普及ガイド](https://www.enecho.meti.go.jp/category/saving_and_new/advanced_systems/vpp/)
+*   **[11] WOTA株式会社 (2021)**: 『小規模分散型水循環システム（WOTA BOX）の技術実証および自律フィルター制御白書』.
+    *   [WOTA公式：WOTA BOX 製品・技術情報](https://wota.co.jp/wota-box/)
+*   **[12] 株式会社パワーエックス (2023)**: 『Mega Power（メガパワー）産業用蓄電池を活用した系統用自律分散蓄電システム構成仕様』.
+    *   [PowerX公式：Mega Power 産業用蓄電池](https://power-x.co/ja/products/megapower/)
 *   **[13] NixOS Foundation (2024)**: *NixOS: Stateless and Immutable Operating System Configuration Manual*.
+    *   [NixOS公式マニュアル](https://nixos.org/manual/nixos/stable/)
 *   **[14] SQLite Team (2025)**: *Local-First Data Sync and Edge Database Optimization Guidelines*.
+    *   [SQLite公式ドキュメント](https://sqlite.org/)
 *   **[15] LoRa Alliance (2023)**: *LoRaWAN Regional Parameters and Decentralized P2P Mesh Network Protocol Specification*.
-*   **[16] ニコラ・テスラ (1904)**: 『世界システム（World System）計画書』. （*Nikola Tesla: The Transmission of Electrical Energy Without Wires*）.
+    *   [LoRa Alliance公式仕様書](https://lora-alliance.org/)
+*   **[16] ニコラ・テスラ (1904)**: 『世界システム（World System）計画書』.
+    *   [Nikola Tesla Research: World System 記録アーカイブ](https://teslaresearch.jimdofree.com/)
 
 ---
 
+<!-- textlint-enable ja-technical-writing/max-kanji-continuous-len -->
+
 ### 🎙️ Ⅱ. 歴史・思想・資本主義アーカイブ（COTEN RADIO 音声資料およびLISTENトランスクリプト）
 
-以下の音声リンク（LISTENトランスクリプト）は、歴史的事象の経路依存性や統治システムの変遷に関する議論のエビデンス、および背景考察として直接参照されたものです。
+以下の音声アーカイブ（LISTEN公式文字起こしプラットフォーム）は、歴史的事象の経路依存性や統治システムの変遷に関する議論の背景、およびエビデンスとして直接参照されたものです。
+（※各エピソードの文字起こしテキストは、LISTENの番組内検索バーにエピソード番号またはシリーズ名を入力することで全文検索・閲覧が可能です）。
 
 *   **[17] ローマ帝国はいかにして覇権を確立し崩壊したか（全15話）**:
     COTEN RADIO 第154回〜第168回。ローマ水道のメーター分配システム、および中央の徴税力減退に伴う地方荘園（マナー）への分散退却プロセスの議論。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/h9v3p2q1)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[18] 老子・荘子：管理社会（儒教的システム）に対する能動的不便の思想（全8話）**:
-COTEN RADIOの第312回から第319回では、議論が行われています。その議論は、「無用の用」についてです。また、中央集権的な評価グリッドに対する自発的な脱依存についても議論されています。この脱依存は、タオ主義として言及されています。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/it3h9m2p)
+    COTEN RADIO 第312回〜第319回。「無用の用」および中央集権的評価グリッドに対する自発的脱依存（タオ主義）の議論。
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[19] 宗教改革：活版印刷（グーテンベルク）によるカトリック思想OSの解体（全10話）**:
     COTEN RADIO 第201回〜第210回。情報複製の爆発が、情報ゲートキーパーであった教会の知的・財政的利権を崩壊させたプロセスの議論。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/gh7v2l9a)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[20] アメリカ開拓史：主権の空白地帯における自律的ルールと自警（全6話）**:
     COTEN RADIO 第254回〜第259回。法制度が及ばないフロンティアにおける、入植者間の自発的ルールの適合と防衛。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/us7v2kl1)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[21] オスマン帝国：多層ネスト型ミレットガバナンスとデヴシルメ非血縁最適化（全12話）**:
     COTEN RADIO 第180回〜第191回。西欧型の一元管理ナショナルOSに対する、モジュール・緩い結合による多元レジリエンス。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/ot7m9v2q)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[22] 産業革命：集約化がもたらした熱力学的・経済的効率の極限（全5話）**:
-COTEN RADIO 第110回から第114回までの内容です。
-石炭エネルギーの集中管理について議論しています。
-また、近代都市に特有の、一元的なインフラ（上下水道、鉄道）の発生プロセスも議論しています。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/is7v39ka)
+    COTEN RADIO 第110回〜第114回。石炭エネルギーの集中管理と、近代都市型一元インフラ（上下水道、鉄道）の発生プロセスの議論。
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[23] お金（資本主義）の歴史：プラットフォーム集権とクラウド資本主義の萌芽（全15話）**:
     COTEN RADIO 第80回〜第94回。富の集中管理（課金）と、インターネットが中央集権的な広告・監視プラットフォームへと変異した構造的必然。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/ca7v3k2p)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[24] 教育の歴史：一元管理国家のための標準パーツ（人間）製造OS（全8話）**:
-COTEN RADIO 第135回から第142回です。本テーマは、国家の可読性を最大化することを目指しています。工業社会型の一律標準の教育カリキュラムについて考察します。その発生史を解説します。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/ed7v2m9p)
+    COTEN RADIO 第135回〜第142回。国家の可読性を最大化するための、工業社会型一律標準教育カリキュラムの発生史。
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[25] 通信・メディアの歴史：情報複製の外在化による客観共感の危機（全6話）**:
     COTEN RADIO 第271回〜第276回。手書き写本から印刷、そしてデジタル情報飽和が「事実合意のOS」を崩壊させる過程の議論。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/co7v2k8m)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[26] 日露戦争：情報と速度による非対称戦のバランシング（全10話）**:
     COTEN RADIO 第169回〜第178回。大国に対して、小国（日本）が暗号化・情報ネットワーク・超高速OODAを駆使して対抗したプロセスの議論。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/ru7v2l9a)
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
 *   **[27] ニコラ・テスラ：ワイヤレス無償送電の敗北と送電網課金（メーター）の歴史（全6話）**:
-COTEN RADIO 第340回〜第345回です。
-エジソン（直流）とテスラ（交流）の間では、送電網における規格競争が発生しました。
-この競争には、「メーターを設置して課金できないものはインフラビジネスとして成立しない」という資本の囲い込み論理が背景にありました。
-    *   [LISTEN音声トランスクリプト](https://listen.style/p/cotenradio/te7m3b1p)
+    COTEN RADIO 第340回〜第345回。エジソン（直流）対テスラ（交流）の送電網規格競争、および「メーターを設置して課金できないものはインフラビジネスとして成立しない」という資本の囲い込み論理。
+    *   [LISTEN：COTEN RADIO 番組トップ・文字起こしアーカイブ](https://listen.style/p/cotenradio)
+
+<!-- textlint-enable -->
