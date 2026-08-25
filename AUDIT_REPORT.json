@@ -1,0 +1,30 @@
+{
+  "links_coverage": {
+    "passed": 62,
+    "failed": [
+      "00_tldr.md"
+    ],
+    "total": 63
+  },
+  "history_separation": {
+    "passed": 11,
+    "failed": [],
+    "checked": 11
+  },
+  "de_dogmatization": {
+    "passed": 63,
+    "failed": [],
+    "total": 63
+  },
+  "multi_framework": {
+    "passed": 1,
+    "failed": [],
+    "checked": 1
+  },
+  "diagram_ux": {
+    "passed": 1,
+    "failed": [],
+    "checked": 1
+  },
+  "style_errors": 0
+}
