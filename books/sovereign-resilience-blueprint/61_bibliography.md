@@ -58,6 +58,14 @@ title: "参考文献およびLISTEN音声アーカイブ"
     *   [IPCC AR6 第1作業部会報告書](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-4/)
 *   **[46] Gartner Group (1995)**: *Jackie Fenn: Methodology of Gartner Hype Cycle for Emerging Technologies*.
     *   [Gartner公式ナレッジベース](https://www.gartner.com/en/documents/1414917)
+*   **[47] Erich Fromm (1941)**: *Escape from Freedom* (邦訳：『自由からの逃走』). Farrar & Rinehart.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=EscapeFromFreedom) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4480081011)
+*   **[48] Daniel Kahneman (2011)**: *Thinking, Fast and Slow* (邦訳：『ファスト＆スロー』). Farrar, Straus and Giroux.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=ThinkingFastAndSlow) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4150504104)
+*   **[49] William Samuelson, Richard Zeckhauser (1988)**: *Status Quo Bias in Decision Making*. Journal of Risk and Uncertainty.
+    *   [1次論文PDF（ResearchGate）](https://www.researchgate.net/publication/24056150_Status_Quo_Bias_in_Decision_Making)
+*   **[50] Susan T. Fiske, Shelley E. Taylor (1984)**: *Social Cognition (Cognitive Miser Theory)*. Addison-Wesley.
+    *   [書誌情報（Google Books）](https://books.google.com/books?id=SocialCognition) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/4750337834)
 *   **[17] James C. Scott (1998)**: *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
     *   [書誌情報（Google Books）](https://books.google.com/books?id=bYg6QgAACAAJ) / [日本語版（Amazon）](https://www.amazon.co.jp/dp/462209536X)
 *   **[18] Nick Srnicek (2016)**: *Platform Capitalism*. Polity Press.
