@@ -22,9 +22,21 @@ const SLUG_CHARS = /^[a-z0-9_-]+$/;
 const BOOK_SLUG_LEN = [12, 50];
 const CHAPTER_SLUG_LEN = [1, 50];
 
-/** Zenn の制限 */
+/** Zenn の制限
+ *
+ * MAX_TOPICS と IMAGE_MAX_BYTES は、Zenn 公式のGitHub連携に関する記事で明記されている値。
+ * 章数については、Zenn公式ドキュメント、および公開されているCLI/検証ライブラリ
+ * (zenn-dev/zenn-editor の packages/zenn-model, packages/zenn-cli) のいずれにも
+ * 章数の上限を定めた記述・実装が存在しない(2026-09-03 調査)。したがって
+ * SOFT_CHAPTER_WARNING は実在するZennの制限ではなく、「章の水増しや設定ミスで
+ * 際限なく増えていないか」を著者に知らせるための目安に過ぎない。ここを超えても
+ * 公開を妨げない(注意として表示するのみ)。
+ * HARD_CHAPTER_LIMIT は、config.yaml の生成ミスなど明白な事故を検出するための
+ * 桁違いの安全弁であり、これも実在のZenn制限ではない。
+ */
 const MAX_TOPICS = 5;
-const MAX_CHAPTERS = 100;
+const SOFT_CHAPTER_WARNING = 100;
+const HARD_CHAPTER_LIMIT = 500;
 const MERMAID_MAX_CHARS = 2000;
 const IMAGE_MAX_BYTES = 3 * 1024 * 1024;
 const IMAGE_EXT = new Set(['.png', '.jpg', '.jpeg', '.gif', '.webp']);
@@ -185,8 +197,10 @@ for (const slug of bookSlugs) {
   if (!listed.length) {
     problems.push(`books/${slug}: config.yaml に chapters がありません`);
   }
-  if (listed.length > MAX_CHAPTERS) {
-    problems.push(`books/${slug}: 章が ${listed.length} 件です(上限 ${MAX_CHAPTERS})`);
+  if (listed.length > HARD_CHAPTER_LIMIT) {
+    problems.push(`books/${slug}: 章が ${listed.length} 件です(安全弁 ${HARD_CHAPTER_LIMIT} 件を超過。config.yaml の生成ミスの可能性を確認してください)`);
+  } else if (listed.length > SOFT_CHAPTER_WARNING) {
+    notes.push(`books/${slug}: 章が ${listed.length} 件です(目安 ${SOFT_CHAPTER_WARNING} 件超。Zenn自体に確認済みの上限はありません。意図した章数か確認してください)`);
   }
 
   for (const f of files) {

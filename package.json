@@ -8,11 +8,14 @@
     "new:article": "zenn new:article",
     "new:book": "zenn new:book",
     "lint": "textlint \"books/**/*.md\" \"articles/**/*.md\" \"docs/**/*.md\" README.md",
-    "check": "npm run lint && npm run check:books",
-    "check:books": "node scripts/check-books.mjs"
+    "check": "npm run lint && npm run check:books && npm run check:figures",
+    "check:books": "node scripts/check-books.mjs",
+    "check:figures": "node scripts/check-figures.mjs",
+    "check:figures:render": "node scripts/check-figures.mjs --render"
   },
   "devDependencies": {
     "@textlint-rule/textlint-rule-pattern": "^2.0.2",
+    "mermaid": "^11.17.2",
     "textlint": "^15.2.2",
     "textlint-rule-preset-ja-technical-writing": "^12.0.2",
     "zenn-cli": "^0.5.2"

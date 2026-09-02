@@ -128,6 +128,8 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/426AC0000000068)
 *   **[422] e-Gov法令検索**：重要電子計算機に対する不正な行為による被害の防止に関する法律（サイバー対処能力強化法、令和7年法律第42号、2025年5月23日公布）.
     *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/507AC0000000042)
+*   **[510] 高井蘭山 (文政10年/1827)**：『証註 御成敗式目』（御成敗式目の原文と注釈）.
+    *   [国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000092-I2324_414234)
 
 ---
 
@@ -291,6 +293,48 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [DOI](https://doi.org/10.1007/978-981-19-9588-0_1)
 *   **[439] Milly, P. C. D. et al. (2008)**：Stationarity Is Dead: Whither Water Management? Science 319(5863): 573–574.
     *   [DOI](https://doi.org/10.1126/science.1151915)
+*   **[500] Delmer M. Brown ed. (1993)**：The Cambridge History of Japan, Vol. 1: Ancient Japan（律令官制・租庸調）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL8318872W)
+*   **[502] 石母田正 (1971)**：『日本の古代国家』岩波書店（国郡里制と律令国家）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL12098438W)
+*   **[504] Donald H. Shively, William H. McCullough eds. (1999/2008)**：The Cambridge History of Japan, Vol. 2: Heian Japan（摂関政治・受領・院政）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL25713498W)
+*   **[505] 永原慶二 (1998)**：『荘園』吉川弘文館（負名体制・荘園整理令）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL127902W)
+*   **[506] John Whitney Hall (1966)**：Government and Local Power in Japan, 500 to 1700（荘園公領制）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL27310W)
+*   **[508] Jeffrey P. Mass (1974)**：Warrior Government in Early Medieval Japan（守護・地頭の設置、御恩と奉公）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL4093584W)
+*   **[509] 佐藤進一 (1983)**：『日本の中世国家』岩波書店（朝廷と幕府の二元統治、公家法・本所法・武家法）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL11793761W)
+*   **[511] Kozo Yamamura ed. (1990)**：The Cambridge History of Japan, Vol. 3: Medieval Japan（建武の新政・室町幕府・守護大名）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL19342017W)
+*   **[514] John Whitney Hall, Nagahara Keiji, Kozo Yamamura eds. (1981)**：Japan Before Tokugawa: Political Consolidation and Economic Growth, 1500-1650（戦国大名・分国法・城下町）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL19565427W)
+*   **[515] Mary Elizabeth Berry (1982)**：Hideyoshi. Harvard University Press（太閤検地・石高制・全国統一）.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL3909282W)
+*   **[517] 矢部健太郎 (2021)**：「天正十六年七月八日付秀吉朱印状二種の公布状況：「刀狩令」「海賊停止令」の作成過程とその目的」『國學院雑誌』122巻11号.
+    *   [国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000136-I1390295447136871296)
+*   **[518] 佐々木潤之介 (2001)**：「近世日本と兵農分離制」『史学雑誌』110巻12号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/shigaku/110/12/110_KJ00008992261/_article/-char/ja/)
+*   **[501] 大高広和 (2013)**：「大宝律令の制定と「蕃」「夷」」『史学雑誌』122巻12号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/shigaku/122/12/122_KJ00009001451/_article/-char/ja/)
+*   **[503] 河内祥輔 (1977)**：「大宝令班田収授制度考」『史学雑誌』86巻3号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/shigaku/86/3/86_KJ00003672383/_article/-char/ja/)
+*   **[507] 石丸煕 (1985)**：書評：五味文彦「院政期知行国制度の基礎的研究」『法制史研究』34号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/jalha1951/1984/34/1984_34_236/_article/-char/ja/)
+*   **[512] 永原慶二・杉山博 (1951)**：「守護領國制の展開（一）」『社会経済史学』17巻2号（半済令・守護請）.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/sehs/17/2/17_KJ00002438841/_article/-char/ja/)
+*   **[513] 早島大祐 (2014)**：書評：酒井紀美『応仁の乱と在地社会』『史学雑誌』123巻3号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/shigaku/123/3/123_KJ00009323525/_article/-char/ja/)
+*   **[516] 藤井讓治 (2010)**：「慶長三年の越前国太閤検地関係史料」『福井県文書館研究紀要』7号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/fukuiarchives/7/0/7_95/_article/-char/ja/)
+*   **[526] 荻田保 (1992)**：「知事公選と内務省廃止」『年報行政研究』27号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/jspa1962/1992/27/1992_221/_article/-char/ja/)
+*   **[530] 山本公徳 (2012)**：「シャウプ勧告における地方制度改革構想と現代地方自治」『年報行政研究』47号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/jspa1962/2012/47/2012_134/_article/-char/ja/)
+*   **[532] 梶田真 (2003)**：「地方交付税の配分構造からみた戦後地方行財政の特質」『地理学評論』76巻9号.
+    *   [J-STAGE](https://www.jstage.jst.go.jp/article/grj2002/76/9/76_9_645/_article/-char/ja/)
 
 ---
 
@@ -488,6 +532,42 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [気象庁公式](https://www.jma.go.jp/jma/press/2408/08e/NT_202408081945sv.pdf)
 *   **[362] 内閣府 南海トラフ巨大地震対策検討ワーキンググループ (2025)**：最大クラス地震における被害想定について【定量的な被害量】令和7年3月（ライフライン最大値）.
     *   [内閣府防災公式](https://www.bousai.go.jp/jishin/nankai/taisaku_wg_02/pdf/saidai_01.pdf)
+*   **[519] 国立公文書館 (n.d.)**：日本のあゆみ「昭和20年（1945）8月 ポツダム宣言を受諾する」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s20_1945_04.html)
+*   **[520] 国立国会図書館 (2003-2004)**：日本国憲法の誕生 概説 第1章「戦争終結と憲法改正の始動」（間接統治・GHQ）.
+    *   [国立国会図書館公式](https://www.ndl.go.jp/constitution/gaisetsu/01gaisetsu.html)
+*   **[521] 国立国会図書館 (n.d.)**：史料にみる日本の近代 5-3「占領と改革の開始」（五大改革指令）.
+    *   [国立国会図書館公式](https://www.ndl.go.jp/modern/cha5/description03.html)
+*   **[522] 国立国会図書館 (2003-2004)**：日本国憲法の誕生「年表」（1946年11月3日公布・1947年5月3日施行）.
+    *   [国立国会図書館公式](https://www.ndl.go.jp/constitution/etc/history.html)
+*   **[523] 総務省 e-Gov法令検索 (1946)**：日本国憲法（昭和21年憲法）条文.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/321CONSTITUTION)
+*   **[524] 国立公文書館 (n.d.)**：日本のあゆみ「昭和22年（1947）4月 地方自治法が制定される」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s22_1947_04.html)
+*   **[525] 総務省 e-Gov法令検索 (1947)**：地方自治法（昭和22年法律第67号）条文.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/322AC0000000067)
+*   **[527] 国立公文書館 (n.d.)**：日本のあゆみ「昭和21年（1946）10月 第2次農地改革」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s21_1946_05.html)
+*   **[528] 国立公文書館 (n.d.)**：日本のあゆみ「昭和22年（1947）4月 独占禁止法が制定される」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s22_1947_03.html)
+*   **[529] 国立公文書館 (n.d.)**：日本のあゆみ「昭和20年（1945）12月 労働組合法が制定される」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s20_1945_07.html)
+*   **[531] 総務省 e-Gov法令検索 (1950)**：地方交付税法（昭和25年法律第211号）条文.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/325AC0000000211)
+*   **[533] 国立国会図書館 (n.d.)**：史料にみる日本の近代 6-7「保守合同」（1955年11月15日 自由民主党結成）.
+    *   [国立国会図書館公式](https://www.ndl.go.jp/modern/cha6/description07.html)
+*   **[534] 国立公文書館 (n.d.)**：日本のあゆみ「昭和37年（1962）10月 全国総合開発計画が閣議決定される」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s37_1962_01.html)
+*   **[535] 総務省 (n.d.)**：地方自治制度の歴史（1991年改正、1999年 機関委任事務制度の廃止と自治事務・法定受託事務の創設）.
+    *   [総務省公式](https://www.soumu.go.jp/main_sosiki/jichi_gyousei/bunken/history.html)
+*   **[536] 内閣府 (n.d.)**：地方分権改革「これまでの歩み」（地方分権推進委員会1995-2001、推進会議2001-2004、推進委員会2007-2010）.
+    *   [内閣府公式](https://www.cao.go.jp/bunken-suishin/ayumi/ayumi-index.html)
+*   **[537] 総務省 (n.d.)**：市町村合併資料集「市町村数の変遷と明治・昭和の大合併の特徴」（3,232→1,727→1,718）.
+    *   [総務省公式](https://www.soumu.go.jp/gapei/gapei2.html)
+*   **[538] 総務省 e-Gov法令検索 (1998)**：中央省庁等改革基本法（平成10年法律第103号）条文.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/410AC0000000103)
+*   **[539] 総務省 e-Gov法令検索 (1999)**：内閣府設置法（平成11年法律第89号）条文.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/411AC0000000089)
 
 ---
 
