@@ -1,39 +1,66 @@
-title: "自律分散型レジリエンス国家の設計図 ―― AI有事・気候激甚化時代におけるシステム統合アプローチと技術者の役割"
-summary: "境界防御が崩壊し、少子化と災害で国家インフラが局所撤退する時代。インフラの全面切断時にも、ローカルLANでしなやかに縮退運転できる自律生存システムの構築方法を解説。オストロムのコモンズ論、ソルニットの災害ユートピア、そしてWOTAやPowerXの先駆的事例を架橋し、一技術者が真の地域レジリエンスに貢献するための実践的なシステム設計図を提示します。"
-topics: ["ai", "security", "geopolitics", "resilience", "career"]
+title: "未来予測の設計図 ―― 歴史的事実・現在の外部入力・20年後の社会構造"
+summary: "過去・現在・未来を1本の推論として接続する砂時計アーキテクチャに沿って、国家の興亡・統治思想・科学革新・戦争様式という4系列の歴史的事実を整理し、日本と主要国の現状を公的資料から検証したうえで、3年から20年の社会構造を3つのシナリオとして推論します。歴史記述は事実のみで構成し、解釈は各章末に分離。すべての事実記述に一次資料への直接リンクを付しています。"
+topics: ["ai", "geopolitics", "security", "resilience", "career"]
 published: true
 price: 0
 chapters:
+  # ===== 序 =====
   - introduction
   - 00_tldr
+  # ===== 第Ⅰ部A =====
   - 01_sovereign-state-os
-  - 02_ancient-water-infrastructure
   - 03_roman-infrastructure-collapse
+  - 09_ottoman-polycentric-governance
+  - edo-system-and-collapse
+  - meiji-centralization
+  - dynastic-cycle-and-corruption
+  # ===== 第Ⅰ部B =====
+  - isms-overview
+  - capitalism-history
+  - capitalism-why-irreplaceable
+  - democracy-history
+  - socialism-communism-history
+  - monarchy-aristocracy-republic
+  - isms-failure-comparison
+  # ===== 第Ⅰ部C =====
+  - innovation-overview
+  - 11_writing-administrative-legibility
+  - 02_ancient-water-infrastructure
+  - 12_printing-press-religious-reformation
   - 04_industrial-revolution-urbanization
   - 05_cholera-outbreak-sewage
   - 06_electrification-dawn
   - 07_politics-of-metering
-  - 08_american-frontier-self-reliance
-  - 09_ottoman-polycentric-governance
-  - 10_centralized-infrastructure-debt
-  - 11_writing-administrative-legibility
-  - 12_printing-press-religious-reformation
   - 13_modern-education-standardization
   - 14_computing-logical-operations
-  - 15_platform-capitalism-centralization
-  - 16_generative-ai-cognitive-bifurcation
-  - 17_surveillance-capitalism-algocracy
-  - 18_sinic-theory-framework
-  - 19_optimization-society-limits
-  - 20_autonomous-society-frictions
-  - 21_boundary-defense-death
-  - 22_ai-asymmetric-warfare-math
-  - 23_millisecond-warfare-ooda
+  - internet-history
+  - technology-displacement-history
+  # ===== 第Ⅰ部D =====
+  - war-why-states-fight
+  - war-technology-evolution
   - 24_russo-japanese-asymmetry
-  - 25_physical-spof-japan
-  - 26_power-grid-cascade-collapse
-  - 27_climate-change-physical-catastrophe
-  - 28_nankai-trough-vulnerability
+  - war-total-war-and-nuclear
+  - war-blitzkrieg-doctrine
+  - 08_american-frontier-self-reliance
+  # ===== 第Ⅱ部A =====
+  - japan-current-state
+  - japan-population-decline
+  - 10_centralized-infrastructure-debt
+  - 38_infrastructure-disinvestment-paradox
+  - 39_fortressed-cities-vulnerable-wilderness
+  - usa-current-state
+  - eu-current-state
+  - china-current-state
+  # ===== 第Ⅱ部B =====
+  - report-ukraine-war
+  - report-iran-israel-conflict
+  - international-order-japan-position
+  # ===== 第Ⅱ部C =====
+  - 15_platform-capitalism-centralization
+  - 17_surveillance-capitalism-algocracy
+  - 16_generative-ai-cognitive-bifurcation
+  - 36_openai-ai-futures-governance
+  - quantum-computing-impact
   - 29_cognitive-saturation-ai-noise
   - 30_epistemic-crisis-consensus-collapse
   - 31_society-50-twin-optimization
@@ -41,12 +68,35 @@ chapters:
   - 33_meti-semiconductor-rapidus
   - 34_moonshot-avatar-limits
   - 35_democratic-latency-math
-  - 36_openai-ai-futures-governance
   - 37_algocracy-automated-administration
-  - 38_infrastructure-disinvestment-paradox
-  - 39_fortressed-cities-vulnerable-wilderness
+  # ===== 第Ⅱ部D =====
+  - 21_boundary-defense-death
+  - 22_ai-asymmetric-warfare-math
+  - 23_millisecond-warfare-ooda
+  - 25_physical-spof-japan
+  - 26_power-grid-cascade-collapse
   - 40_cloud-lockout-wan-cutout
+  - 27_climate-change-physical-catastrophe
+  - 28_nankai-trough-vulnerability
+  # ===== 第Ⅲ部 =====
+  - future-method
+  - 18_sinic-theory-framework
+  - 19_optimization-society-limits
+  - event-risk-catalog
+  - risk-ai-and-dependency
+  - 20_autonomous-society-frictions
   - 41_dependency-psychoanalysis
+  - risk-war-probability
+  - scenario-baseline
+  - scenario-optimistic
+  - scenario-pessimistic
+  - scenario-comparison
+  # ===== 第Ⅳ部 =====
+  - implication-state
+  - implication-community
+  - implication-company
+  - implication-individual
+  # ===== 第Ⅴ部 =====
   - 42_taoist-wu-wei-non-action
   - 43_governing-the-commons-rediscovery
   - 44_ostrom-principles-1-4-engineering
@@ -59,11 +109,16 @@ chapters:
   - 51_decentralized-energy-powerx-mega-power
   - 52_vpp-peer-to-peer-load-sharing
   - 53_decentralized-water-wota-closed-loop
-  - 54_water-supply-act-regulation-hack
+  - 54_water-supply-act-compliance
   - 55_wota-jwad-mutual-aid-platform
   - 56_resilient-data-nixos-immutable-os
   - 57_sqlite-local-first-ssi-cryptography
   - 58_local-rag-offline-slm-decision-support
   - 59_p2p-mesh-lora-offline-communication
   - 60_systems-engineer-manifesto
+  # ===== 総括 =====
+  - conclusion-synthesis
+  # ===== 付録 =====
+  - appendix-engineer-role
+  - appendix-glossary
   - 61_bibliography
