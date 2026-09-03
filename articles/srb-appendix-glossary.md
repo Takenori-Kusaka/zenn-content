@@ -1,5 +1,15 @@
 ---
-title: "付録B　用語集 ―― 本書が採用した専門用語の定義"
+title: "未来予測の設計図 付録B：用語集 ―― 本書が採用した専門用語の定義"
+emoji: "📘"
+type: "idea"
+topics: ["ai", "geopolitics", "security", "resilience", "career"]
+published: true
+---
+
+本記事は、Zenn Book『未来予測の設計図』の付録Bです。本編が特定の意味で用いる用語を、初出の章とともに定義します。
+
+本編はこちらです。[未来予測の設計図 ―― 歴史的事実・現在の外部入力・20年後の社会構造](https://zenn.dev/takenori_kusaka/books/sovereign-resilience-blueprint)
+
 ---
 
 ### 本付録の位置づけ

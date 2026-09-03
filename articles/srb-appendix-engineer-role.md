@@ -1,5 +1,15 @@
 ---
-title: "付録A　技術者は社会にとって何をする人になるのか"
+title: "未来予測の設計図 付録A：技術者は社会にとって何をする人になるのか"
+emoji: "🛠️"
+type: "idea"
+topics: ["ai", "geopolitics", "security", "resilience", "career"]
+published: true
+---
+
+本記事は、Zenn Book『未来予測の設計図』の付録Aです。本編の第Ⅳ部までの推論を踏まえ、技術者という職能が将来社会において何を担うのかを検討します。
+
+本編はこちらです。[未来予測の設計図 ―― 歴史的事実・現在の外部入力・20年後の社会構造](https://zenn.dev/takenori_kusaka/books/sovereign-resilience-blueprint)
+
 ---
 
 ### 序論：本付録が扱う範囲
