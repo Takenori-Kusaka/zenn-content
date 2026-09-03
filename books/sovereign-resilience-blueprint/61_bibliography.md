@@ -130,6 +130,10 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/507AC0000000042)
 *   **[510] 高井蘭山 (文政10年/1827)**：『証註 御成敗式目』（御成敗式目の原文と注釈）.
     *   [国立国会図書館サーチ](https://ndlsearch.ndl.go.jp/books/R100000092-I2324_414234)
+*   **[565] 国立国会図書館 国会会議録検索システム (1993)**：第126回国会 衆議院本会議 第30号（1993年6月3日）。地方分権の推進に関する決議案.
+    *   [国立国会図書館公式](https://kokkai.ndl.go.jp/txt/112605254X03019930603)
+*   **[566] 国立国会図書館 国会会議録検索システム (1993)**：第126回国会 参議院本会議 第22号（1993年6月4日）。地方分権の推進に関する決議案.
+    *   [国立国会図書館公式](https://kokkai.ndl.go.jp/txt/112615254X02219930604)
 
 ---
 
@@ -335,6 +339,20 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [J-STAGE](https://www.jstage.jst.go.jp/article/jspa1962/2012/47/2012_134/_article/-char/ja/)
 *   **[532] 梶田真 (2003)**：「地方交付税の配分構造からみた戦後地方行財政の特質」『地理学評論』76巻9号.
     *   [J-STAGE](https://www.jstage.jst.go.jp/article/grj2002/76/9/76_9_645/_article/-char/ja/)
+*   **[540] 元木泰雄 (2004)**：『保元・平治の乱を読みなおす』日本放送出版協会。院政期の権力対立が武力で決着し、平清盛が台頭する過程.
+    *   [国立国会図書館公式](https://ndlsearch.ndl.go.jp/books/R100000002-I000007599124)
+*   **[541] Thomas Donald Conlan (2001)**：”In Little Need of Divine Intervention”。1274年・1281年の襲来と鎌倉幕府の軍事動員に関する実証研究.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL8903168W)
+*   **[542] 瀬野精一郎 (2017)**：『鎮西御家人の研究』吉川弘文館。九州御家人の恩賞請求、異国警固番役、所領の質入と売却.
+    *   [国立国会図書館公式](https://ndlsearch.ndl.go.jp/books/R100000002-I028563452)
+*   **[543] 笠松宏至 (2022)**：『徳政令 ―― 中世の法と慣習』講談社。永仁の徳政令の内容と、その一部撤回.
+    *   [国立国会図書館公式](https://ndlsearch.ndl.go.jp/books/R100000002-I031948271)
+*   **[544] 西田友広 (2017)**：『悪党召し捕りの中世 ―― 鎌倉幕府の治安維持』吉川弘文館。悪党の活動と守護による捕縛.
+    *   [国立国会図書館公式](https://ndlsearch.ndl.go.jp/books/R100000002-I027970298)
+*   **[545] Andrew Edmund Goble (1996)**：”Kenmu: Go-Daigo's Revolution”。建武の新政の統治方針と短期での瓦解.
+    *   [書誌情報（Open Library）](https://openlibrary.org/works/OL3266471W)
+*   **[546] 宇田川武久 (2002)**：『鉄砲と戦国合戦』吉川弘文館。1543年の鉄砲の伝来と、集団運用が求めた常備歩兵.
+    *   [国立国会図書館公式](https://ndlsearch.ndl.go.jp/books/R100000002-I000003686725)
 
 ---
 
@@ -568,6 +586,28 @@ title: "付録C　参考文献 ―― 本書が参照したすべての一次資
     *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/410AC0000000103)
 *   **[539] 総務省 e-Gov法令検索 (1999)**：内閣府設置法（平成11年法律第89号）条文.
     *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/411AC0000000089)
+*   **[560] 国立公文書館 (n.d.)**：日本のあゆみ「昭和26年（1951）9月 サンフランシスコ平和条約・日米安全保障条約が調印される」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s26_1951_01.html)
+*   **[561] 国立公文書館 (n.d.)**：日本のあゆみ「昭和27年（1952）4月 サンフランシスコ平和条約が発効し、独立を回復する」.
+    *   [国立公文書館公式](https://www.archives.go.jp/ayumi/kobetsu/s27_1952_01.html)
+*   **[562] 総務省 e-Gov法令検索 (1954)**：警察法（昭和29年法律第162号）条文。旧警察法の全部改正と都道府県警察の設置.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/329AC0000000162)
+*   **[563] 文部科学省 (n.d.)**：学制百年史 資料編「教育委員会法（昭和23年7月15日法律第170号）」条文。教育委員の公選規定.
+    *   [www.mext.go.jp](https://www.mext.go.jp/b_menu/hakusho/html/others/detail/1318136.htm)
+*   **[564] 総務省 e-Gov法令検索 (1956)**：地方教育行政の組織及び運営に関する法律（昭和31年法律第162号）条文。教育委員会法の廃止と任命制.
+    *   [e-Gov法令検索](https://laws.e-gov.go.jp/law/331AC0000000162)
+*   **[567] 首相官邸 (n.d.)**：歴代内閣一覧。第79代 細川護煕内閣（平成5年8月9日～平成6年4月28日）.
+    *   [首相官邸公式](https://www.kantei.go.jp/jp/rekidainaikaku/index.html)
+*   **[568] 総務省 (2006)**：平成18年版 地方財政白書 第1部2「地方財政の概況」。地方債現在高と普通会計が負担すべき借入金残高の推移.
+    *   [総務省公式](https://www.soumu.go.jp/menu_seisaku/hakusyo/chihou/18data/18czb1-2.html)
+*   **[569] 財務省 (n.d.)**：財政に関する資料。一般会計税収・歳出総額・公債発行額の推移および普通国債残高の累増.
+    *   [www.mof.go.jp](https://www.mof.go.jp/tax_policy/summary/condition/a02.htm)
+*   **[570] 総務省統計局 (2026)**：住民基本台帳人口移動報告 2025年（令和7年）結果。東京圏は30年連続の転入超過.
+    *   [www.stat.go.jp](https://www.stat.go.jp/data/idou/2025np/jissu/youyaku/index.html)
+*   **[571] 総務省 (2006)**：平成18年版 地方財政白書 第3部3「市町村合併の推進」。合併の目的と財政支援策.
+    *   [総務省公式](https://www.soumu.go.jp/menu_seisaku/hakusyo/chihou/18data/18czb3-3.html)
+*   **[572] 総務省 (2006)**：平成18年版 地方財政白書 第3部1「三位一体の改革」。基本方針2002以降の経過と改革規模.
+    *   [総務省公式](https://www.soumu.go.jp/menu_seisaku/hakusyo/chihou/18data/18czb3-1.html)
 
 ---
 
