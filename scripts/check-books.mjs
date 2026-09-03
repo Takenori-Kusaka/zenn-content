@@ -24,19 +24,15 @@ const CHAPTER_SLUG_LEN = [1, 50];
 
 /** Zenn の制限
  *
- * MAX_TOPICS と IMAGE_MAX_BYTES は、Zenn 公式のGitHub連携に関する記事で明記されている値。
- * 章数については、Zenn公式ドキュメント、および公開されているCLI/検証ライブラリ
- * (zenn-dev/zenn-editor の packages/zenn-model, packages/zenn-cli) のいずれにも
- * 章数の上限を定めた記述・実装が存在しない(2026-09-03 調査)。したがって
- * SOFT_CHAPTER_WARNING は実在するZennの制限ではなく、「章の水増しや設定ミスで
- * 際限なく増えていないか」を著者に知らせるための目安に過ぎない。ここを超えても
- * 公開を妨げない(注意として表示するのみ)。
- * HARD_CHAPTER_LIMIT は、config.yaml の生成ミスなど明白な事故を検出するための
- * 桁違いの安全弁であり、これも実在のZenn制限ではない。
+ * MAX_CHAPTERS は zenn.dev 側で実際に強制されている。2026-09-03 に 106 章へ増やして
+ * 公開したところ、config.yaml の 101 章目以降(第Ⅴ部の末尾2章、総括、付録A〜C)が
+ * zenn.dev 上に反映されず、公開が 100 章で止まることを確認した。
+ * 公開されない章は警告もなく欠落するため、ここは必ずエラーとして扱う。
+ * なお、この上限は公開ドキュメントにも、公開されている CLI/検証ライブラリ
+ * (zenn-dev/zenn-editor) にも記載がない。サーバ側でのみ適用される。
  */
 const MAX_TOPICS = 5;
-const SOFT_CHAPTER_WARNING = 100;
-const HARD_CHAPTER_LIMIT = 500;
+const MAX_CHAPTERS = 100;
 const MERMAID_MAX_CHARS = 2000;
 const IMAGE_MAX_BYTES = 3 * 1024 * 1024;
 const IMAGE_EXT = new Set(['.png', '.jpg', '.jpeg', '.gif', '.webp']);
@@ -197,10 +193,11 @@ for (const slug of bookSlugs) {
   if (!listed.length) {
     problems.push(`books/${slug}: config.yaml に chapters がありません`);
   }
-  if (listed.length > HARD_CHAPTER_LIMIT) {
-    problems.push(`books/${slug}: 章が ${listed.length} 件です(安全弁 ${HARD_CHAPTER_LIMIT} 件を超過。config.yaml の生成ミスの可能性を確認してください)`);
-  } else if (listed.length > SOFT_CHAPTER_WARNING) {
-    notes.push(`books/${slug}: 章が ${listed.length} 件です(目安 ${SOFT_CHAPTER_WARNING} 件超。Zenn自体に確認済みの上限はありません。意図した章数か確認してください)`);
+  if (listed.length > MAX_CHAPTERS) {
+    problems.push(
+      `books/${slug}: 章が ${listed.length} 件です(上限 ${MAX_CHAPTERS})。` +
+        `${MAX_CHAPTERS + 1} 章目以降(${listed.slice(MAX_CHAPTERS).join(', ')})は zenn.dev へ反映されません`
+    );
   }
 
   for (const f of files) {

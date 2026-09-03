@@ -59,7 +59,7 @@ title: "第Ⅴ部-2　共有資源の自主管理 ―― オストロムの研�
 ```mermaid
 flowchart TD
     P[共有資源の枯渇<br>利用の総和が<br>再生能力を超える]
-    P -->|理論から演繹| G1
+    P -->|理論から導く| G1
     P -->|観測から帰納| G2
     subgraph G1[ハーディンの二分法]
         direction TB
